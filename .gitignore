@@ -1,0 +1,12 @@
+.idea
+**/appsettings.json
+**/appsettings.Development.json
+**/bin
+**/obj
+**/.env
+.vs
+.vscode
+out
+.DS_Store
+KorTj.sln.DotSettings.user
+*.txt
